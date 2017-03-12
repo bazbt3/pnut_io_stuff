@@ -10,4 +10,4 @@ At the time of writing the network is in open-beta and requires an invitation be
 
 ## My related Wiki:
 
-[**A Wiki**](../../wiki/Home.md), for which I'd appreciate help in both compiling and updating!  )This is where this resource's content will appear.)
+[**A Wiki**](../../wiki/Home), for which I'd appreciate help in both compiling and updating!  )This is where this resource's content will appear.)
