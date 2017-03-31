@@ -1,10 +1,6 @@
-## pnut.io stuff
-
-Stuff related to the [pnut.io](pnut.io) social network.
-
 ## What is pnut.io?
 
-[**http://pnut.io**](http://pnut.io) is a social network created by @33MHz, and which borrows heavily from the design of the now-defunct App.net social network.
+[**http://pnut.io**](http://pnut.io) is a social network created by @33MHz.
 
 At the time of writing the network is in open-beta and requires an invitation before signing up.
 
