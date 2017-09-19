@@ -1,9 +1,9 @@
 ## What is pnut.io?
 
-[**http://pnut.io**](http://pnut.io) is a social network created by @33MHz.
+[**http://pnut.io**](http://pnut.io) is a social network created by @33MHz. *(This bit is at least verifiable but consider what follows to be a bit rubbish.)*
 
-At the time of writing the network is in open-beta and requires an invitation before signing up.
+At the time of writing the network is in open-beta and requires an invitation before signing up. *[Status needs checking.]*
 
 ## My related Wiki:
 
-[**A Wiki**](../../wiki/Home), for which I'd appreciate help in both compiling and updating!  (This is where this resource's content will appear.)
+[**My early Wiki**](../../wiki/Home) will soon be obsolete - [https://wiki.pnut.io](https://wiki.pnut.io) will soon have content, is the place to go.
